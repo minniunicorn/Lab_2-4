@@ -9,7 +9,7 @@ namespace Lab_2_4
     class ClassTask1
     {
         /// <summary>
-        /// Первое число
+        /// Число
         /// </summary>
         public string a;
 
